@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  /* Gradient from dark to light */
+
+  background: linear-gradient(
+    to right,
+    #1a202c,
+    #2d3748,
+    #4a5568,
+    #718096,
+    #edf2f7
+  );
+
+  color: white;
+}
