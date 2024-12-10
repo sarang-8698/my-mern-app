@@ -32,9 +32,3 @@ Make sure you have the following installed on your local machine:
 - **Node.js** (v14 or higher)
 - **MongoDB** (local or use a cloud service like MongoDB Atlas)
 
-### Backend Setup
-
-1. Navigate to the `backend` folder:
-
-   ```bash
-   cd backend
